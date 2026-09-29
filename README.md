@@ -57,9 +57,7 @@ An end-to-end machine learning project that predicts whether a Titanic passenger
 
 ## ▶️ How to run
 
-**Option 1: Google Colab (no setup).** Open the notebook in [Google Colab](https://colab.research.google.com/) and run all cells. The data loads straight from a public URL.
-
-**Option 2: Locally**
+** Locally**
 ```bash
 git clone https://github.com/<your-username>/titanic-survival-prediction.git
 cd titanic-survival-prediction
